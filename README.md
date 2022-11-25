@@ -1,6 +1,6 @@
 # Projeto NLW eSports
 
-![preview](./.github/preview.png)
+![Preview](/.github/preview.png)
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
